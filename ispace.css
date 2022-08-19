@@ -1,0 +1,55 @@
+* {
+    background-color: bisque;
+    box-sizing: border-box;
+}
+
+.ispace {
+    height: 100%;
+    width: 80%;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.nav {
+    background-color: white;
+    text-align: center;
+}
+
+.nav a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: white;
+    letter-spacing: 2px;
+    padding: 30px;
+    font-size: larger;
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    background-color: white;
+    letter-spacing: 3px;
+}
+
+.header span {
+    background-color: greenyellow;
+}
+
+.first_coloumn {
+    background-color: white;
+    padding-top: 35px;
+}
+
+.first_coloumn img {
+    display: block;
+    margin: auto;
+}
+
+.radio {
+    text-align: center;
+    background-color: white;
+    margin: 30px;
+}
